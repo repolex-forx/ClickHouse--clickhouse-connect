@@ -1,0 +1,7 @@
+[2026-10-17T22:05:46Z] === AST ITERATION 1 START | repo=ClickHouse/clickhouse-connect sha=d5a1d85c ===
+[2026-10-17T22:05:46Z] [iter=1] PHASE START: ast repo=ClickHouse/clickhouse-connect sha=d5a1d85c
+[2026-10-17T22:05:46Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T22:15:34Z] [iter=1] AST chunks built count=1 triples=5126097
+[2026-10-17T22:15:34Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d5a1d85c8c4ae119d6a65af219533e4cea059af3/.complete
+[2026-10-17T22:15:34Z] [iter=1] PHASE END: ast elapsed_s=588 elapsed_min=9.8
+[2026-10-17T22:15:34Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
